@@ -1,5 +1,10 @@
 LangPal Prototype - Mobile app using Flutter in VSCode
 
+**
+With more time, I will reorganize the Dart file and create separate Dart files for each page. I hope to reduce all of the redundant code (there is a lot and that is why it is so long).
+But this was my first time using Flutter and working with Dart, and I have gotten a better idea of how to make the code more readable and portable, which I will work on next.
+**
+
 **1) Main Screen Page
 **   
 ![Main Screen Page](app_screenshots/main_page_resize.png)
