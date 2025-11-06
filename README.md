@@ -2,7 +2,7 @@ LangPal Prototype - Mobile app using Flutter in VSCode
 
 1) Main Screen Page
 <p align="center">
-  <img src="app_screenshots/main_page.png" style="width:50;" alt="Main Screen Page">
+  <img src="app_screenshots/main_page.png" width:100px; alt="Main Screen Page">
 </p>
    Includes:
    - A card at the top of the screen that includes the user's progress and the level of learning their selected language.
