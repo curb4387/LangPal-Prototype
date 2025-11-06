@@ -1,15 +1,15 @@
 LangPal Prototype - Mobile app using Flutter in VSCode
 
-1) Main Screen Page
-   
+**1) Main Screen Page
+**   
 ![Main Screen Page](app_screenshots/main_page_resize.png)
 
    Includes:
    - A card at the top of the screen that includes the user's progress and the level of learning their selected language.
    - A scrollable page of the chapters in the unit, each showing how many stars they completed the chapter with.
 
-2) Start Conversation Page
-   
+**2) Start Conversation Page
+**   
 ![Start Conversation Page](app_screenshots/convo_page_resize.png)
 ![Start Conversation Page Scrolling](app_screenshots/convo_page_gif.gif)
 
@@ -17,8 +17,8 @@ LangPal Prototype - Mobile app using Flutter in VSCode
    - A card at the top of the screen that tells the user to choose a Pal from the list.
    - A list of the available Pals that the user can start a conversation with.
 
-3) User Profile Page
-   
+**3) User Profile Page
+**   
 ![User Profile Page](app_screenshots/profile_page_resize.png)
 
    Includes:
@@ -30,8 +30,8 @@ LangPal Prototype - Mobile app using Flutter in VSCode
      - The user's placement on the leaderboard
      - Recent new trophies the user has earned
 
-4) Missions Page
-   
+**4) Missions Page
+**   
 ![Missions Page](app_screenshots/mission_page_resize.png)
 
    Includes:
@@ -40,4 +40,5 @@ LangPal Prototype - Mobile app using Flutter in VSCode
    - A card that shows the Daily Missions, what missions the user can complete, and their progress
    - A card that shows the Weekly Missions, what missions the user can complete, and their progress
 
-**Each page has top and bottom navigation bars.
+****Each page has top and bottom navigation bars.
+**
