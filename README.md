@@ -9,6 +9,7 @@ LangPal Prototype - Mobile app using Flutter in VSCode
 2) Start Conversation Page
 ![Start Conversation Page](app_screenshots/convo_page.png)
 ![Start Conversation Page Scrolling](app_screenshots/convo_page_gif.gif)
+
    Includes:
    - A card at the top of the screen that tells the user to choose a Pal from the list.
    - A list of the available Pals that the user can start a conversation with.
