@@ -1,12 +1,12 @@
 LangPal Prototype - Mobile app using Flutter in VSCode
 
 1) Main Screen Page
-![Main Screen Page](app_screenshots/main_page.png)
+<img src="app_screenshots/main_page.png" style="width:300px;" alt="Main Screen Page">
    Includes:
    - A card at the top of the screen that includes the user's progress and the level of learning their selected language.
    - A scrollable page of the chapters in the unit, each showing how many stars they completed the chapter with.
 
-2) Start Conversation Page
+3) Start Conversation Page
 ![Start Conversation Page](app_screenshots/convo_page.png)
 ![Start Conversation Page Scrolling](app_screenshots/convo_page_gif.gif)
 
